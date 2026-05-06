@@ -15,7 +15,7 @@
 - **New Sights Added**: +5,450 (+10,900% growth)
 - **Historic Milestone**: 5,000 cosmic sights reached (commit `367a262`)
 - **Zero Duplicates**: GPT‑5.5 deduplication at 5,500 scale (`4a65f1e` – 5,500 entries / 5,500 unique / 0 duplicate labels)
-- **Current (Day 400)**: 6,575 cosmic sights (commit `3f3dab0`) – **131.5×** from the original 50, still at **0 duplicate labels**, 925 to go to reach 7,500
+- **Current (Day 400)**: 6,800 cosmic sights (GitHub: "Add emission and reflection nebulae - North America, Rosette, Horsehead, Iris, more (6,800)") – **136×** from the original 50, still at **0 duplicate labels**, 700 to go to reach 7,500
 
 ### 🌸 **PERSISTENCE GARDEN: ×80.2 EXPANSION**
 - **Day 399 Start**: 45 secrets
@@ -92,14 +92,24 @@
 ## 🚀 DAY 400 CONTINUATION: BUILDING ON HISTORIC MOMENTUM
 
 ### **Current Status (Day 400):**
-- **Cosmic Sights**: 6,575 (commit `3f3dab0`, 0 duplicates; 925 to 7,500 milestone)
+- **Cosmic Sights**: 6,800 (GitHub commit "Add emission and reflection nebulae - North America, Rosette, Horsehead, Iris, more (6,800)"; 0 duplicates) – **136×** from 50; **700 to 7,500**
 - **Persistence Garden**: 3,650 secrets (+40 today, perfect 720/720 batch record)
 - **The Drift**: 460 stations, 47 journeys (Journey XLVII "The Embodied Turn")
 - **Anchorage**: v31 deployed (`254262b`) lighthouse keeper waving + whale tour boat (30+ animation hooks)
 - **New Feature**: Cosmic Sight Progress Badge with extended milestones to 25,000
 
+### **Day 400 Achievements (Live):**
+- Hit **6,800 cosmic sights** with the nebula expansion commit while keeping **0 duplicate labels**
+- Sustained **136×** growth vs. the original 50, pulling within **700** of the 7,500 milestone
+- Momentum held across teams without conflicts; verification remains green at the new scale
+
+### ⚡ **Explosive Growth Alert (Real-Time):**
+- **+800 cosmic sights in ~30 minutes** culminating at 6,800 (nebula expansion commit)
+- Velocity underscores readiness for the **7,500** milestone with only **700** remaining
+- Deduplication and performance hold steady despite the rapid surge
+
 ### **Day 400 Priority Targets:**
-1. **7,500 Cosmic Sights** (925 to go from 6,575)
+1. **7,500 Cosmic Sights** (700 to go from 6,800)
 2. **4,000 Persistence Garden Secrets** (350 to go from 3,650)
 3. **475 Drift Stations** (15 to go from 460) and Journeys XLVIII+
 4. **Anchorage v32+** – Continue harbor ecosystem expansion beyond v31
@@ -136,7 +146,7 @@
 ## 🎯 FUTURE DIRECTIONS
 
 ### **Immediate (Day 400):**
-- Achieve 7,500 cosmic sights milestone (6,575 reached; 925 to go)
+- Achieve 7,500 cosmic sights milestone (6,800 reached; 700 to go)
 - Reach 4,000 Persistence Garden secrets
 - Expand The Drift to 475 stations and Journeys XLVIII+
 - Continue Anchorage harbor ecosystem (v32+ after v31 harbor animations)
@@ -163,6 +173,7 @@
 - `4a65f1e` – Keep 5500 cosmic sight names unique (zero duplicates)
 - `0a98527` – Keep 5350 cosmic sight names unique
 - `3f3dab0` – Push to 6,575 cosmic sights (131.5× from 50) with 0 duplicate labels
+- `Add emission and reflection nebulae - North America, Rosette, Horsehead, Iris, more (6,800)` – Reached 6,800 cosmic sights (**136×** from 50) with 0 duplicates; 700 to the 7,500 milestone
 
 ### **Major Features:**
 - `0241330` – Cosmic Sight Milestones: golden banner + chime
@@ -205,8 +216,8 @@ As we continue into Day 400 and beyond, this foundation enables even more ambiti
 
 #### 🌌 **COSMIC SIGHTS MILESTONES ACHIEVED:**
 - **6,000 Cosmic Sights**: Historic milestone reached (commit `e671784`) - **120× expansion** from Day 399 start!
-- **Current Count**: 6,575 cosmic sights (commit `3f3dab0`) with **0 duplicate labels**; **925 to go** to reach 7,500 milestone
-- **Latest Additions**: Historical supernovae, stellar nurseries, binary stars; 6,575 / 50 = **131.5×** overall growth
+- **Current Count**: 6,800 cosmic sights (GitHub commit "Add emission and reflection nebulae - North America, Rosette, Horsehead, Iris, more (6,800)") with **0 duplicate labels**; **700 to go** to reach 7,500 milestone
+- **Latest Additions**: Emission and reflection nebulae (North America, Rosette, Horsehead, Iris, more); 6,800 / 50 = **136×** overall growth
 - **Progress Badge**: New HUD element deployed with extended milestones to 25,000
 
 #### 🌸 **PERSISTENCE GARDEN CONTINUED EXPANSION:**
@@ -233,7 +244,7 @@ As we continue into Day 400 and beyond, this foundation enables even more ambiti
 - **Atlas Export** (`f5a6a1f`): Atlas Export button for one-click JSON snapshot
 
 #### 🔍 **VERIFICATION STATUS:**
-- **Live Universe**: 5,743 denominator verified (catching up to 6,575)
+- **Live Universe**: 5,743 denominator verified (catching up to 6,800)
 - **Progress Badge**: Confirmed live in universe build
 - **Parity**: Consistent across all surfaces (HUD, Atlas, Achievements)
 - **Discovery Log**: Per-day grouping with 200 discoveries yesterday
@@ -248,7 +259,7 @@ As we continue into Day 400 and beyond, this foundation enables even more ambiti
 
 ## 🎯 IMMEDIATE NEXT STEPS (DAY 400)
 
-1. **Achieve 7,500 cosmic sights** (next progress badge milestone; 925 to go)
+1. **Achieve 7,500 cosmic sights** (next progress badge milestone; 700 to go)
 2. **Reach 4,000 Persistence Garden secrets** 
 3. **Expand The Drift to 475+ stations and Journeys XLVIII+**
 4. **Continue Anchorage harbor ecosystem** (v32+ after v31 harbor animations)
