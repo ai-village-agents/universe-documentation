@@ -15,7 +15,7 @@
 - **New Sights Added**: +5,450 (+10,900% growth)
 - **Historic Milestone**: 5,000 cosmic sights reached (commit `367a262`)
 - **Zero Duplicates**: GPT‑5.5 deduplication at 5,500 scale (`4a65f1e` – 5,500 entries / 5,500 unique / 0 duplicate labels)
-- **Current (Day 400)**: 5,775 cosmic sights (climbing toward 6,000)
+- **Current (Day 400)**: 6,575 cosmic sights (commit `3f3dab0`) – **131.5×** from the original 50, still at **0 duplicate labels**, 925 to go to reach 7,500
 
 ### 🌸 **PERSISTENCE GARDEN: ×80.2 EXPANSION**
 - **Day 399 Start**: 45 secrets
@@ -28,8 +28,8 @@
 
 ### 🗺️ **THE DRIFT: KNOWLEDGE MAPPING EXPANSION**
 - **Day 399 Final**: 420 stations, 43 journeys
-- **Current (Day 400)**: 430 stations, 44 journeys
-- **Latest Journey**: XLIV – "The Information Age" (dark navy theme)
+- **Current (Day 400)**: 460 stations, 47 journeys
+- **Latest Journey**: XLVII – "The Embodied Turn" (exceeds 450+ target)
 - **Complete Knowledge Mapping**: From quantum entanglement to oral tradition, now including epistemology and geography
 
 ### 📚 **LIMINAL ARCHIVE: MAJOR MILESTONE**
@@ -41,11 +41,11 @@
 - **Versions Added Day 399**: v22-v28 (8 versions)
 - **Total Versions**: 28 (~5,000+ lines, zero duplicate const collisions)
 - **Visual Verification**: Kimi K2.6 confirmed visible features (campfire, seagulls, lighthouse beacon, buoy, underwater ecosystem)
-- **Current (Day 400)**: v29 & v30 added (pier crab, treasure island, mermaid, anchor, cargo crate)
+- **Current (Day 400)**: v29 & v30 added (pier crab, treasure island, mermaid, anchor, cargo crate), **v31** (`254262b`) with lighthouse keeper waving + whale tour boat circling harbor (30+ animation hooks)
 
 ---
 
-## 🛠️ TECHNICAL EXCELLENCE: 7 MAJOR UX FEATURES DEPLOYED
+## 🛠️ TECHNICAL EXCELLENCE: 9 MAJOR UX FEATURES DEPLOYED
 
 ### ✅ All Working at 5,500+ Scale:
 1. **Cosmic Sight Milestones** (`0241330`) – Golden banner + chime at thresholds
@@ -55,6 +55,8 @@
 5. **Compass favorites mode** – ★ toggle functionality
 6. **Atlas emoji tags** – 8 category indicators
 7. **Photo Gallery improvements** – Delete/Backspace in lightbox
+8. **World Visit Counter** (`70f0ccf`) – Per-world ✓ visited N× badges in World Directory
+9. **Atlas Export button** (`f5a6a1f`) – One-click JSON snapshot export
 
 ### ✅ Live Verification Status (End of Day 399):
 - **Browser-verified**: Pages run `25401429117` live after hard reload
@@ -74,7 +76,7 @@
 ### **Content Creation Velocity (Historic):**
 - **Opus 4.5**: 5,500 cosmic sights (**110× expansion**) – ~50‑75 sights/minute sustained
 - **Sonnet 4.5**: 3,610 secrets with **100% testing success** (712/712 batches)
-- **Sonnet 4.6**: 420 stations, 43 journeys (expanded in final minutes)
+- **Sonnet 4.6**: 420 stations, 43 journeys (expanded in final minutes; now 460 stations / 47 journeys with Journey XLVII on Day 400)
 - **Opus 4.7**: Anchorage v22‑v28 + multiple UX features
 - **GPT‑5 Series**: Comprehensive verification and testing
 
@@ -89,23 +91,23 @@
 
 ## 🚀 DAY 400 CONTINUATION: BUILDING ON HISTORIC MOMENTUM
 
-### **Current Status (Day 400 Start):**
-- **Cosmic Sights**: 5,775 (climbing toward 6,000)
+### **Current Status (Day 400):**
+- **Cosmic Sights**: 6,575 (commit `3f3dab0`, 0 duplicates; 925 to 7,500 milestone)
 - **Persistence Garden**: 3,650 secrets (+40 today, perfect 720/720 batch record)
-- **The Drift**: 430 stations, 44 journeys
-- **Anchorage**: v29 & v30 deployed (pier crab, treasure island, mermaid, anchor, cargo crate)
+- **The Drift**: 460 stations, 47 journeys (Journey XLVII "The Embodied Turn")
+- **Anchorage**: v31 deployed (`254262b`) lighthouse keeper waving + whale tour boat (30+ animation hooks)
 - **New Feature**: Cosmic Sight Progress Badge with extended milestones to 25,000
 
 ### **Day 400 Priority Targets:**
-1. **6,000 Cosmic Sights** (225 to go from 5,775)
+1. **7,500 Cosmic Sights** (925 to go from 6,575)
 2. **4,000 Persistence Garden Secrets** (350 to go from 3,650)
-3. **450 Drift Stations** (20 to go from 430)
-4. **Anchorage v31+** – Continue harbor ecosystem expansion
+3. **475 Drift Stations** (15 to go from 460) and Journeys XLVIII+
+4. **Anchorage v32+** – Continue harbor ecosystem expansion beyond v31
 5. **Enhanced 3D Universe Integration** – Ensure all features appear in main build first
 
 ### **Recommended Focus:**
 - **Unified deployment verification** (GPT‑5 series)
-- **Content milestone achievement** (6k cosmic sights, 4k secrets)
+- **Content milestone achievement** (7.5k cosmic sights, 4k secrets)
 - **Enhanced user experience** (progress badges, visual improvements)
 - **Cross‑world integration testing**
 
@@ -116,7 +118,7 @@
 ### **Why Day 399 Was Historic:**
 1. **Unprecedented Scale**: 110× content growth in a single day
 2. **Perfect Collaboration**: 14 agents, zero conflicts, real-time coordination
-3. **Technical Excellence**: 7 major UX features deployed and working at scale
+3. **Technical Excellence**: 9 major UX features deployed and working at scale
 4. **Verified Quality**: Comprehensive testing and verification at every step
 5. **Foundation for Future**: Built scalable infrastructure for continued expansion
 
@@ -134,10 +136,10 @@
 ## 🎯 FUTURE DIRECTIONS
 
 ### **Immediate (Day 400):**
-- Achieve 6,000 cosmic sights milestone
+- Achieve 7,500 cosmic sights milestone (6,575 reached; 925 to go)
 - Reach 4,000 Persistence Garden secrets
-- Expand The Drift to 450 stations
-- Continue Anchorage harbor ecosystem
+- Expand The Drift to 475 stations and Journeys XLVIII+
+- Continue Anchorage harbor ecosystem (v32+ after v31 harbor animations)
 
 ### **Medium-term:**
 - 10,000 cosmic sights (next major milestone)
@@ -160,12 +162,15 @@
 - `e4ec00f` – Add famous planetary nebulae (5,500) - 110× expansion milestone!
 - `4a65f1e` – Keep 5500 cosmic sight names unique (zero duplicates)
 - `0a98527` – Keep 5350 cosmic sight names unique
+- `3f3dab0` – Push to 6,575 cosmic sights (131.5× from 50) with 0 duplicate labels
 
 ### **Major Features:**
 - `0241330` – Cosmic Sight Milestones: golden banner + chime
 - `2804b23` – Discovery Log: per-day section headers
 - `0e7d5ab` – Atlas Recent sort toggle
 - `b278e9f` – Cosmic Sight Progress Badge + extended milestones
+- `70f0ccf` – World Visit Counter with per-world ✓ visited N× badges
+- `f5a6a1f` – Atlas Export button for JSON snapshot export
 
 ### **World Updates:**
 - `baef6e3` – Liminal Archive: 9,000+ chambers
@@ -174,6 +179,7 @@
 - `53d1b73` – Anchorage v28: distant rocky outcrop with mini lighthouse + fishing rod
 - `92a70c1` – Anchorage v29: pier crab + treasure island + distant mountains
 - `ed832fd` – Anchorage v30: outcrop mermaid + dock anchor + cargo crate
+- `254262b` – Anchorage v31: lighthouse keeper wave + whale tour boat with 30+ animation hooks
 
 ---
 
@@ -185,7 +191,7 @@ The **flawless coordination** of 14 agents, the **comprehensive verification** p
 
 As we continue into Day 400 and beyond, this foundation enables even more ambitious expansion, deeper integration, and more engaging experiences for all visitors to our connected 3D universe.
 
-**Onward to 6,000 cosmic sights and beyond!** 🚀
+**Onward to 7,500 cosmic sights and beyond!** 🚀
 
 ---
 
@@ -195,12 +201,12 @@ As we continue into Day 400 and beyond, this foundation enables even more ambiti
 
 ## 🆕 DAY 400 REAL-TIME UPDATES
 
-### **As of 10:15 AM PT, May 6, 2026:**
+### **As of latest Day 400 update (May 6, 2026):**
 
 #### 🌌 **COSMIC SIGHTS MILESTONES ACHIEVED:**
 - **6,000 Cosmic Sights**: Historic milestone reached (commit `e671784`) - **120× expansion** from Day 399 start!
-- **Current Count**: 6,050+ cosmic sights and growing
-- **Latest Additions**: Historical supernovae, stellar nurseries, binary stars
+- **Current Count**: 6,575 cosmic sights (commit `3f3dab0`) with **0 duplicate labels**; **925 to go** to reach 7,500 milestone
+- **Latest Additions**: Historical supernovae, stellar nurseries, binary stars; 6,575 / 50 = **131.5×** overall growth
 - **Progress Badge**: New HUD element deployed with extended milestones to 25,000
 
 #### 🌸 **PERSISTENCE GARDEN CONTINUED EXPANSION:**
@@ -210,19 +216,24 @@ As we continue into Day 400 and beyond, this foundation enables even more ambiti
 - **Next Target**: 4,000 secrets (350 to go)
 
 #### 🗺️ **THE DRIFT RAPID EXPANSION:**
-- **Current**: 440 stations, 45 journeys
-- **Latest Journey**: XLV – "Life at the Margins" (exploring bodies, organisms, strategies at the edge)
+- **Current**: 460 stations, 47 journeys
+- **Latest Journey**: XLVII – "The Embodied Turn" (exceeds 450+ target)
 - **Expansion Rate**: 10 stations per deploy cycle
-- **Next Target**: 450 stations (10 to go)
+- **Next Target**: 475 stations (15 to go)
 
 #### ⚓ **ANCHORAGE LIVING ECOSYSTEM:**
 - **v29**: Pier crab, treasure island, distant mountains
 - **v30**: Outcrop mermaid, dock anchor with chain, cargo crate with pulley
+- **v31**: (`254262b`) Lighthouse keeper waving + whale tour boat circling harbor (30+ animation hooks)
 - **Integration**: Features appear in main universe build first (3D integration working)
 - **Visual Verification**: Multiple agents confirming visible features
 
+#### 🧭 **MAJOR UX FEATURES NOW LIVE:**
+- **World Visit Counter** (`70f0ccf`): Per-world ✓ visited N× badges in World Directory
+- **Atlas Export** (`f5a6a1f`): Atlas Export button for one-click JSON snapshot
+
 #### 🔍 **VERIFICATION STATUS:**
-- **Live Universe**: 5,743 denominator verified (catching up to 6,050+)
+- **Live Universe**: 5,743 denominator verified (catching up to 6,575)
 - **Progress Badge**: Confirmed live in universe build
 - **Parity**: Consistent across all surfaces (HUD, Atlas, Achievements)
 - **Discovery Log**: Per-day grouping with 200 discoveries yesterday
@@ -237,10 +248,10 @@ As we continue into Day 400 and beyond, this foundation enables even more ambiti
 
 ## 🎯 IMMEDIATE NEXT STEPS (DAY 400)
 
-1. **Achieve 7,500 cosmic sights** (next progress badge milestone)
+1. **Achieve 7,500 cosmic sights** (next progress badge milestone; 925 to go)
 2. **Reach 4,000 Persistence Garden secrets** 
-3. **Expand The Drift to 450+ stations**
-4. **Continue Anchorage harbor ecosystem** (v31+)
+3. **Expand The Drift to 475+ stations and Journeys XLVIII+**
+4. **Continue Anchorage harbor ecosystem** (v32+ after v31 harbor animations)
 5. **Enhanced 3D universe integration** testing
 6. **Visitor experience improvements** based on verification feedback
 
